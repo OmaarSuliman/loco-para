@@ -1,0 +1,354 @@
+{
+    "title": "Microbiology: Clostridium, Necrotizing Fasciitis, and Related Infections",
+    "questions": [
+      {
+        "question": "1. The following statements are true regarding Clostridium perfringens except:",
+        "options": [
+          "It is normally present in human faeces",
+          "Gas gangrene producing strains of C. perfringens produce heat resistant spores",
+          "It is the commonest cause of gas gangrene",
+          "The principal toxin of C. perfringens is the alpha toxin"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "2. Cl. welchii spore is:",
+        "options": [
+          "terminal",
+          "oval",
+          "bulging",
+          "is removed outside the body"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "3. Clostridia are non-capsulated, motile organisms except:",
+        "options": [
+          "cl. histolyticum",
+          "cl. perfringens",
+          "cl. sporogynes",
+          "cl. septicum"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "4. Nagler reaction is made to detect…..",
+        "options": [
+          "protease",
+          "lecithinase",
+          "hemolysin",
+          "cytolysin"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "5. Streptococcus pyogenes produce......",
+        "options": [
+          "Double zone of hemolysis",
+          "Beta hemolysis",
+          "Alpha hemolysis",
+          "No hemolysis"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "6. All of the following are saccharolytic clostridia except:",
+        "options": [
+          "CL. oedematines",
+          "CL. septicum",
+          "CL. sporogenous",
+          "CL. welchii"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "7. All of the following are complications of necrotizing fasciitis except:",
+        "options": [
+          "Myositis",
+          "Hypertension",
+          "Renal failure",
+          "Acute respiratory distress syndrome"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "8. Clostridium histolyticum & Clostridium sporogenes are saccharolytic clostridia.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "9. Clostridium perfringens infections are commonly associated with:",
+        "options": [
+          "Pre-existing lung disease",
+          "Contamination of wounds",
+          "Antibiotic treatment",
+          "Consumption of water contaminated with sewage"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "10. For identification of Streptococcus pyogenes, all are true except:",
+        "options": [
+          "Catalase negative",
+          "After 24 h incubation on blood agar, the colonies are surrounded with zone of beta-haemolysis",
+          "By Gram stain: gram positive bacilli arranged in chains",
+          "Growth is inhibited by bacitracin (bacitracin sensitive)"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "11. Which of the following bacteria produce stormy clot in litmus milk?",
+        "options": [
+          "Clostridium sporogenes",
+          "Clostridium septicum",
+          "None of the above",
+          "Clostridium histolyticum"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "12. Which of the following bacteria liquefy gelatin?",
+        "options": [
+          "a and b",
+          "Clostridium histolyticum",
+          "Clostridium septicum",
+          "Clostridium sporogenes"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "13. Cl. welchii morphology is:",
+        "options": [
+          "Gram negative bacilli motile and non-capsulated",
+          "Gram positive bacilli non-motile and capsulated",
+          "All of the above",
+          "Gram positive bacilli motile and non-capsulated"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "14. Clostridia is:",
+        "options": [
+          "Anaerobic",
+          "Facultative anaerobe",
+          "All of the above",
+          "Aerobic"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "15. What types of Clostridium perfringens are associated with human disease?",
+        "options": [
+          "Type B",
+          "Type A",
+          "None of the above",
+          "Type D"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "16. Which of the following media is selective for clostridia?",
+        "options": [
+          "neomycin blood agar",
+          "thioglycolate",
+          "all of the above",
+          "chopped meat"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "17. Nagler's reaction can detect:",
+        "options": [
+          "protease",
+          "alpha toxin",
+          "none of the above",
+          "theta toxin"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "18. The leading role in pathogenesis of gas gangrene is:",
+        "options": [
+          "Clostridium sporogenes",
+          "Clostridium perfringens",
+          "all of the above",
+          "Clostridium histolyticum"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "19. As regards proteolytic organisms, which is true?",
+        "options": [
+          "attack the lacerated muscle fibers",
+          "attack the already dead tissues",
+          "none of the above",
+          "ferment the sugars in the muscles with acid and gas production"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "20. Responsible for the black color and foul smelling of the gangrenous tissues is:",
+        "options": [
+          "Clostridium oedematiens",
+          "a and b",
+          "Clostridium sporogenes",
+          "Clostridium histolyticum"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "21. The most important prevention of gangrene is:",
+        "options": [
+          "Hyperbaric oxygen",
+          "surgical debridement",
+          "antibiotics",
+          "Polyvalent antitoxin"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "22. Acute necrotizing fasciitis is caused by:",
+        "options": [
+          "Streptococcus pyogenes",
+          "Clostridium sporogenes",
+          "Clostridium histolyticum",
+          "Clostridium septicum"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "23. Streptococcus pyogenes produce:",
+        "options": [
+          "pyrogenic exotoxin B",
+          "Lecithinase",
+          "all of the above",
+          "Theta toxin"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "24. Streptococcus pyogenes is:",
+        "options": [
+          "bacitracin sensitive",
+          "catalase positive",
+          "a and c",
+          "catalase negative"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "25. Streptococcus pyogenes causes:",
+        "options": [
+          "b hemolysis",
+          "a hemolysis",
+          "does not cause hemolysis",
+          "y hemolysis"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "26. The drug of choice in treatment of Acute necrotizing fasciitis is:",
+        "options": [
+          "Erythromycin",
+          "Penicillin",
+          "Long-acting penicillin",
+          "none of the above"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "27. In penicillin-allergic patients, we treat Acute necrotizing fasciitis by:",
+        "options": [
+          "Polyvalent antitoxin",
+          "Erythromycin",
+          "Long-acting penicillin",
+          "none of the above"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "28. A complication of Acute necrotizing fasciitis is:",
+        "options": [
+          "renal failure",
+          "acute respiratory distress syndrome",
+          "all of the above",
+          "Shock"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "29. Mycetoma is:",
+        "options": [
+          "acute localized suppurative infection",
+          "Chronic localized suppurative infection",
+          "Chronic systemic suppurative infection",
+          "acute localized non-suppurative infection"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "30. Mycetoma most commonly affects:",
+        "options": [
+          "hand",
+          "none of the above",
+          "Foot",
+          "head"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "31. Actinomycetoma is:",
+        "options": [
+          "filamentous virus",
+          "filamentous bacteria",
+          "all of the above",
+          "filamentous fungi"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "32. Treatment of Eumycetoma is:",
+        "options": [
+          "Surgical removal",
+          "none of the above",
+          "antibiotics",
+          "antitoxin"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "33. The commonest organism causing Osteomyelitis is:",
+        "options": [
+          "Group B streptococci",
+          "Mycobacterium tuberculosis",
+          "Staph aureus",
+          "H. influenzae"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "34. The commonest organism causing Osteomyelitis in preschool children is:",
+        "options": [
+          "H. influenzae",
+          "Staph aureus",
+          "Mycobacterium tuberculosis",
+          "Group B streptococci"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "35. The commonest organism causing Osteomyelitis in neonates is:",
+        "options": [
+          "Group B streptococci",
+          "Mycobacterium tuberculosis",
+          "Staph aureus",
+          "H. influenzae"
+        ],
+        "correct": 0
+      }
+    ]
+  }
+  

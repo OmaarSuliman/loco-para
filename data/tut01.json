@@ -1,0 +1,76 @@
+{
+    "title": "Mycetoma & Osteomyelitis",
+    "questions": [
+      {
+        "question": "1. Mycetoma is:",
+        "options": [
+          "acute localized suppurative infection",
+          "Chronic systemic suppurative infection",
+          "Chronic localize suppurative infection",
+          "acute localized non suppurative infection"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "2. Mycetoma most commonly affects:",
+        "options": [
+          "hand",
+          "Foot",
+          "none of the above",
+          "head"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "3. Actinomycetoma is:",
+        "options": [
+          "filamentous bacteria",
+          "filamentous fungi",
+          "all of above",
+          "filamentous virus"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "4. Treatment of Eumycetoma is:",
+        "options": [
+          "antitoxin",
+          "Surgical removal",
+          "antibiotics",
+          "none of the above"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "5. The commonest organism causing Osteomyelitis is:",
+        "options": [
+          "Mycobacterium tuberculosis",
+          "Group B streptococci",
+          "Staph aureus",
+          "H. influenzae"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "6. The commonest organism causing Osteomyelitis in preschool children is:",
+        "options": [
+          "Group B streptococci",
+          "H. influenzae",
+          "Staph aureus",
+          "Mycobacterium tuberculosis"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "7. The commonest organism causing Osteomyelitis in neonates is:",
+        "options": [
+          "Mycobacterium tuberculosis",
+          "Group B streptococci",
+          "Staph aureus",
+          "H. influenzae"
+        ],
+        "correct": 1
+      }
+    ]
+  }
+  
