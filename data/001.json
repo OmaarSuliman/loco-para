@@ -1,354 +1,676 @@
 {
-    "title": "Microbiology: Clostridium, Necrotizing Fasciitis, and Related Infections",
-    "questions": [
-      {
-        "question": "1. The following statements are true regarding Clostridium perfringens except:",
-        "options": [
-          "It is normally present in human faeces",
-          "Gas gangrene producing strains of C. perfringens produce heat resistant spores",
-          "It is the commonest cause of gas gangrene",
-          "The principal toxin of C. perfringens is the alpha toxin"
-        ],
-        "correct": 1
-      },
-      {
-        "question": "2. Cl. welchii spore is:",
-        "options": [
-          "terminal",
-          "oval",
-          "bulging",
-          "is removed outside the body"
-        ],
-        "correct": 1
-      },
-      {
-        "question": "3. Clostridia are non-capsulated, motile organisms except:",
-        "options": [
-          "cl. histolyticum",
-          "cl. perfringens",
-          "cl. sporogynes",
-          "cl. septicum"
-        ],
-        "correct": 1
-      },
-      {
-        "question": "4. Nagler reaction is made to detect…..",
-        "options": [
-          "protease",
-          "lecithinase",
-          "hemolysin",
-          "cytolysin"
-        ],
-        "correct": 1
-      },
-      {
-        "question": "5. Streptococcus pyogenes produce......",
-        "options": [
-          "Double zone of hemolysis",
-          "Beta hemolysis",
-          "Alpha hemolysis",
-          "No hemolysis"
-        ],
-        "correct": 1
-      },
-      {
-        "question": "6. All of the following are saccharolytic clostridia except:",
-        "options": [
-          "CL. oedematines",
-          "CL. septicum",
-          "CL. sporogenous",
-          "CL. welchii"
-        ],
-        "correct": 2
-      },
-      {
-        "question": "7. All of the following are complications of necrotizing fasciitis except:",
-        "options": [
-          "Myositis",
-          "Hypertension",
-          "Renal failure",
-          "Acute respiratory distress syndrome"
-        ],
-        "correct": 1
-      },
-      {
-        "question": "8. Clostridium histolyticum & Clostridium sporogenes are saccharolytic clostridia.",
-        "options": [
-          "True",
-          "False"
-        ],
-        "correct": 1
-      },
-      {
-        "question": "9. Clostridium perfringens infections are commonly associated with:",
-        "options": [
-          "Pre-existing lung disease",
-          "Contamination of wounds",
-          "Antibiotic treatment",
-          "Consumption of water contaminated with sewage"
-        ],
-        "correct": 1
-      },
-      {
-        "question": "10. For identification of Streptococcus pyogenes, all are true except:",
-        "options": [
-          "Catalase negative",
-          "After 24 h incubation on blood agar, the colonies are surrounded with zone of beta-haemolysis",
-          "By Gram stain: gram positive bacilli arranged in chains",
-          "Growth is inhibited by bacitracin (bacitracin sensitive)"
-        ],
-        "correct": 2
-      },
-      {
-        "question": "11. Which of the following bacteria produce stormy clot in litmus milk?",
-        "options": [
-          "Clostridium sporogenes",
-          "Clostridium septicum",
-          "None of the above",
-          "Clostridium histolyticum"
-        ],
-        "correct": 1
-      },
-      {
-        "question": "12. Which of the following bacteria liquefy gelatin?",
-        "options": [
-          "a and b",
-          "Clostridium histolyticum",
-          "Clostridium septicum",
-          "Clostridium sporogenes"
-        ],
-        "correct": 0
-      },
-      {
-        "question": "13. Cl. welchii morphology is:",
-        "options": [
-          "Gram negative bacilli motile and non-capsulated",
-          "Gram positive bacilli non-motile and capsulated",
-          "All of the above",
-          "Gram positive bacilli motile and non-capsulated"
-        ],
-        "correct": 1
-      },
-      {
-        "question": "14. Clostridia is:",
-        "options": [
-          "Anaerobic",
-          "Facultative anaerobe",
-          "All of the above",
-          "Aerobic"
-        ],
-        "correct": 0
-      },
-      {
-        "question": "15. What types of Clostridium perfringens are associated with human disease?",
-        "options": [
-          "Type B",
-          "Type A",
-          "None of the above",
-          "Type D"
-        ],
-        "correct": 1
-      },
-      {
-        "question": "16. Which of the following media is selective for clostridia?",
-        "options": [
-          "neomycin blood agar",
-          "thioglycolate",
-          "all of the above",
-          "chopped meat"
-        ],
-        "correct": 2
-      },
-      {
-        "question": "17. Nagler's reaction can detect:",
-        "options": [
-          "protease",
-          "alpha toxin",
-          "none of the above",
-          "theta toxin"
-        ],
-        "correct": 1
-      },
-      {
-        "question": "18. The leading role in pathogenesis of gas gangrene is:",
-        "options": [
-          "Clostridium sporogenes",
-          "Clostridium perfringens",
-          "all of the above",
-          "Clostridium histolyticum"
-        ],
-        "correct": 1
-      },
-      {
-        "question": "19. As regards proteolytic organisms, which is true?",
-        "options": [
-          "attack the lacerated muscle fibers",
-          "attack the already dead tissues",
-          "none of the above",
-          "ferment the sugars in the muscles with acid and gas production"
-        ],
-        "correct": 1
-      },
-      {
-        "question": "20. Responsible for the black color and foul smelling of the gangrenous tissues is:",
-        "options": [
-          "Clostridium oedematiens",
-          "a and b",
-          "Clostridium sporogenes",
-          "Clostridium histolyticum"
-        ],
-        "correct": 1
-      },
-      {
-        "question": "21. The most important prevention of gangrene is:",
-        "options": [
-          "Hyperbaric oxygen",
-          "surgical debridement",
-          "antibiotics",
-          "Polyvalent antitoxin"
-        ],
-        "correct": 1
-      },
-      {
-        "question": "22. Acute necrotizing fasciitis is caused by:",
-        "options": [
-          "Streptococcus pyogenes",
-          "Clostridium sporogenes",
-          "Clostridium histolyticum",
-          "Clostridium septicum"
-        ],
-        "correct": 0
-      },
-      {
-        "question": "23. Streptococcus pyogenes produce:",
-        "options": [
-          "pyrogenic exotoxin B",
-          "Lecithinase",
-          "all of the above",
-          "Theta toxin"
-        ],
-        "correct": 0
-      },
-      {
-        "question": "24. Streptococcus pyogenes is:",
-        "options": [
-          "bacitracin sensitive",
-          "catalase positive",
-          "a and c",
-          "catalase negative"
-        ],
-        "correct": 2
-      },
-      {
-        "question": "25. Streptococcus pyogenes causes:",
-        "options": [
-          "b hemolysis",
-          "a hemolysis",
-          "does not cause hemolysis",
-          "y hemolysis"
-        ],
-        "correct": 0
-      },
-      {
-        "question": "26. The drug of choice in treatment of Acute necrotizing fasciitis is:",
-        "options": [
-          "Erythromycin",
-          "Penicillin",
-          "Long-acting penicillin",
-          "none of the above"
-        ],
-        "correct": 1
-      },
-      {
-        "question": "27. In penicillin-allergic patients, we treat Acute necrotizing fasciitis by:",
-        "options": [
-          "Polyvalent antitoxin",
-          "Erythromycin",
-          "Long-acting penicillin",
-          "none of the above"
-        ],
-        "correct": 1
-      },
-      {
-        "question": "28. A complication of Acute necrotizing fasciitis is:",
-        "options": [
-          "renal failure",
-          "acute respiratory distress syndrome",
-          "all of the above",
-          "Shock"
-        ],
-        "correct": 2
-      },
-      {
-        "question": "29. Mycetoma is:",
-        "options": [
-          "acute localized suppurative infection",
-          "Chronic localized suppurative infection",
-          "Chronic systemic suppurative infection",
-          "acute localized non-suppurative infection"
-        ],
-        "correct": 1
-      },
-      {
-        "question": "30. Mycetoma most commonly affects:",
-        "options": [
-          "hand",
-          "none of the above",
-          "Foot",
-          "head"
-        ],
-        "correct": 2
-      },
-      {
-        "question": "31. Actinomycetoma is:",
-        "options": [
-          "filamentous virus",
-          "filamentous bacteria",
-          "all of the above",
-          "filamentous fungi"
-        ],
-        "correct": 1
-      },
-      {
-        "question": "32. Treatment of Eumycetoma is:",
-        "options": [
-          "Surgical removal",
-          "none of the above",
-          "antibiotics",
-          "antitoxin"
-        ],
-        "correct": 0
-      },
-      {
-        "question": "33. The commonest organism causing Osteomyelitis is:",
-        "options": [
-          "Group B streptococci",
-          "Mycobacterium tuberculosis",
-          "Staph aureus",
-          "H. influenzae"
-        ],
-        "correct": 2
-      },
-      {
-        "question": "34. The commonest organism causing Osteomyelitis in preschool children is:",
-        "options": [
-          "H. influenzae",
-          "Staph aureus",
-          "Mycobacterium tuberculosis",
-          "Group B streptococci"
-        ],
-        "correct": 0
-      },
-      {
-        "question": "35. The commonest organism causing Osteomyelitis in neonates is:",
-        "options": [
-          "Group B streptococci",
-          "Mycobacterium tuberculosis",
-          "Staph aureus",
-          "H. influenzae"
-        ],
-        "correct": 0
-      }
-    ]
-  }
-  
+  "title": "Parasites Affecting Muscles",
+  "questions": [
+    {
+      "question": "1. The habitat of Trichinella spiralis is:",
+      "options": [
+        "skeletal muscle",
+        "CNS",
+        "small intestine",
+        "large intestine"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "2. Trichinella spiralis female is:",
+      "options": [
+        "viviparous",
+        "oviparous",
+        "ovoviviparous"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "3. Intestinal symptoms of Trichinella spiralis are caused by:",
+      "options": [
+        "larva",
+        "adult female",
+        "egg",
+        "plerocercoid"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "4. The most diagnostic test for Trichinella spiralis is:",
+      "options": [
+        "muscle biopsy",
+        "muscle enzymes",
+        "serology",
+        "blood film"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "5. Mebendazole is highly effective against Trichinella spiralis because it kills:",
+      "options": [
+        "larva and eggs",
+        "larva and adult",
+        "adult and eggs",
+        "pain"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "6. Steroids are used in the treatment of Trichinella spiralis to treat:",
+      "options": [
+        "acute myocarditis",
+        "non-specific gastroenteritis",
+        "hoarseness of voice",
+        "dysphagia"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "7. The infective stage of Trichinella spiralis is:",
+      "options": [
+        "oocysts",
+        "larvae encysted in the striated muscles",
+        "procercoid",
+        "plerocercoid"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "8. Muscle symptoms of Trichinella spiralis are caused by:",
+      "options": [
+        "adult female",
+        "encysted larva",
+        "eggs",
+        "plerocercoid"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "9. In heart muscle infection with Trichinella spiralis the heart heals:",
+      "options": [
+        "with scar",
+        "without scar",
+        "does not heal"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "10. The best treatment of Trichinella spiralis is:",
+      "options": [
+        "mebendazole",
+        "steroids",
+        "analgesic",
+        "salicylates"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "11. The first stage larva in sparganosis is:",
+      "options": [
+        "Cyclops",
+        "fish",
+        "procercoid",
+        "plerocercoid"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "12. A solid elongated organism about 0.5 mm with a spherical caudal end having 6 hooks is:",
+      "options": [
+        "procercoid",
+        "plerocercoid",
+        "cyclops",
+        "fish"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "13. Poultice practice can cause:",
+      "options": [
+        "Muscular sarcocystosis",
+        "Sparganosis",
+        "Trichinellosis",
+        "Cysticercosis"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "14. Treatment of sparganosis is:",
+      "options": [
+        "mebendazole",
+        "steroids",
+        "removal of the larvae"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "15. The diagnostic stage of sparganosis is:",
+      "options": [
+        "procercoid",
+        "plerocercoid",
+        "cyclops",
+        "fish"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "16. The first intermediate host in sparganosis is:",
+      "options": [
+        "cyclops",
+        "fish",
+        "man",
+        "frogs"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "17. A solid elongated organism 1–2 cm with an invaginated anterior end is:",
+      "options": [
+        "procercoid",
+        "plerocercoid",
+        "cyclops",
+        "man"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "18. Sparganosis is more common in:",
+      "options": [
+        "the Far East",
+        "tropical areas",
+        "Egypt",
+        "Iraq"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "19. Muscle biopsy in cases of sparganosis shows:",
+      "options": [
+        "procercoid",
+        "plerocercoid",
+        "cyclops"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "20. The infective stage of Sacrocyst is:",
+      "options": [
+        "sporocysts",
+        "oocyst",
+        "procercoid",
+        "plerocercoid"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "21. An oval structure measuring about 9 to 16 μm and containing four mature sporozoites is:",
+      "options": [
+        "sporocysts",
+        "oocyst",
+        "procercoid",
+        "plerocercoid"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "22. A cyst containing two sporocysts is:",
+      "options": [
+        "sporozoites",
+        "oocyst",
+        "procercoid",
+        "plerocercoid"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "23. Pseudo hypertrophic myopathy occurs due to infection with:",
+      "options": [
+        "oocyst",
+        "procercoid",
+        "plerocercoid",
+        "Taenia solium"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "24. The mode of infection with cysticercosis is:",
+      "options": [
+        "ingestion of T. solium eggs",
+        "ingestion of infected Cyclops spp",
+        "poultice practice",
+        "ingestion of sporocysts"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "25. In cysticercosis, muscle biopsy shows:",
+      "options": [
+        "a cyst with scolex",
+        "a 4-mm cyst containing bradyzoites",
+        "spargnum",
+        "a cyst with larva"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "26. Which of the following can be transmitted by blood transfusion?",
+      "options": [
+        "Toxoplasma gondii",
+        "Taenia solium",
+        "Sacrocyst",
+        "Trichinella spiralis"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "27. Chagoma is characteristic of:",
+      "options": [
+        "Toxoplasma gondii",
+        "Trypanosoma cruzi",
+        "Taenia solium",
+        "Sparganosis"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "28. One of the following parasites can be transmitted by insect bite:",
+      "options": [
+        "Toxoplasma gondii",
+        "Trypanosoma cruzi",
+        "Taenia solium",
+        "Sparganosis"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "29. Disease of Sarcocystis is called:",
+      "options": [
+        "Intestinal Sarcocystosis",
+        "Muscular Sarcocystosis",
+        "Alveolar Sarcocystosis"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "30. Sarcocystosis is common in areas of:",
+      "options": [
+        "rivers",
+        "livestock",
+        "the Middle East"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "31. Oocyst contains ______ sporocyst:",
+      "options": [
+        "4",
+        "2",
+        "8"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "32. Oocyst contains ______ sporozoites:",
+      "options": [
+        "4",
+        "8",
+        "2"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "33. Sporocyst contains ______ sporozoites:",
+      "options": [
+        "8",
+        "4",
+        "2"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "34. The habitat of Sarcocystis is:",
+      "options": [
+        "lung",
+        "intestine",
+        "muscle"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "35. The definitive host of Sarcocystis is:",
+      "options": [
+        "herbivores",
+        "carnivores",
+        "omnivores"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "36. The intermediate host of Sarcocystis is:",
+      "options": [
+        "carnivores",
+        "herbivores",
+        "omnivores"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "37. Human is _____ for Sarcocystis:",
+      "options": [
+        "DH",
+        "IH",
+        "vector"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "38. The infective stage of Sarcocysts is:",
+      "options": [
+        "sporozoites",
+        "sporocyst",
+        "oocyst"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "39. The mode of infection of Sarcocystosis is:",
+      "options": [
+        "skin penetration",
+        "ingestion",
+        "inhalation"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "40. Infection by Sarcocystis results in:",
+      "options": [
+        "diarrhea",
+        "muscle cyst",
+        "hemoptysis"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "41. The first stage larva of Di-mansoni is:",
+      "options": [
+        "plerocercoid",
+        "cesticercoid",
+        "miracidium",
+        "procercoid"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "42. Plerocercoid is:",
+      "options": [
+        "second stage larva",
+        "a solid elongated organism",
+        "1–2 cm in length",
+        "all are true"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "43. The definitive hosts of Di-mansoni are:",
+      "options": [
+        "dogs",
+        "cats",
+        "wild carnivores",
+        "all are true"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "44. All of the following are true of the second intermediate hosts of Di-mansoni except:",
+      "options": [
+        "rodents",
+        "fish",
+        "frogs",
+        "snakes",
+        "man",
+        "cats"
+      ],
+      "correct": 5
+    },
+    {
+      "question": "45. The mode of infection of Di-mansoni is:",
+      "options": [
+        "ingestion of cyclops",
+        "ingestion of raw flesh of second intermediate hosts",
+        "poultice practice",
+        "all are true"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "46. The habitat of Di-mansoni is:",
+      "options": [
+        "large intestine of dogs and cats",
+        "small intestine of frogs and snakes",
+        "large intestine of frogs and snakes",
+        "small intestine of dogs and cats"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "47. The first intermediate host of Di-mansoni is:",
+      "options": [
+        "dogs",
+        "cats",
+        "cyclops",
+        "all are true"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "48. Procercoid is:",
+      "options": [
+        "second stage larva",
+        "1–2 cm",
+        "all are true",
+        "all are false"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "49. Coracidium is found in:",
+      "options": [
+        "feces",
+        "cyclops",
+        "frogs",
+        "water"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "50. The pathology of Di-mansoni includes:",
+      "options": [
+        "painless edema",
+        "fibrous tissue",
+        "inflammation",
+        "all are true"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "51. Ocular infection by Di-mansoni produces painless edema and conjunctivitis.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "52. Diagnosis of Di-mansoni is made by finding eggs in stool.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "53. Treatment of Di-mansoni involves removal of the larvae from lesions.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "54. To prevent infection of Di-mansoni in endemic areas, water should be boiled and filtered.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "55. Poultice practice is allowed to prevent infection by Di-mansoni.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "56. Procercoid is a 0.5 cm first stage larva.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "57. Procercoid is longer than plerocercoid.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "58. Sparganosis is more common in the Far East.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "59. (Quiz1) Mode of infection of Trichinella spiralis is:",
+      "options": [
+        "Sexual intercourse",
+        "Ingestion",
+        "Drinking",
+        "Inhalation"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "60. (Quiz1) The drug of choice in treatment of Trichinella spiralis is:",
+      "options": [
+        "Mebendazole",
+        "Pyrantel pamotate",
+        "Tetracycline",
+        "Triclabendazole"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "61. (Quiz1) All of the following regarding steroid use in Trichinella spiralis are true except:",
+      "options": [
+        "Rapid symptomatic relief",
+        "Must be given if there is myocarditis",
+        "Decrease total number of larva",
+        "Inhibit inflammatory reaction"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "62. (Quiz1) Regarding prevention of Trichinella spiralis, which is true:",
+      "options": [
+        "Proper cooking of meat",
+        "Proper breeding of pig",
+        "Inspection of pork meat in slaughterhouse",
+        "All of the above"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "63. (Quiz1) The most definitive method for diagnosing Trichinella spiralis is:",
+      "options": [
+        "Muscle biopsy",
+        "ELISA",
+        "Serum enzymes",
+        "Eosinophilia"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "64. (Quiz1) The prominent inflammatory cell during infection with Trichinella spiralis is:",
+      "options": [
+        "Eosinophils",
+        "Basophils",
+        "Lymphocytes",
+        "Neutrophils"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "65. (Quiz1) All of the following about the muscular stage of Trichinella spiralis are true except:",
+      "options": [
+        "Cyst undergo calcification",
+        "Infiltration by eosinophils",
+        "Edema and hyperemia",
+        "Bile duct obstruction"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "66. (Quiz2) What is the name of the illness associated with the pathogen?",
+      "options": [
+        "Trincella",
+        "Trinchella",
+        "trichinell",
+        "trichinellosis"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "67. (Quiz2) The roundworm that causes trichinosis in humans from eating improperly cooked pork products is:",
+      "options": [
+        "Wuchereria bancrofti",
+        "Trichinella spiralis",
+        "Necator americanus",
+        "Ascaris lumbricoides",
+        "Enterobius vermicularis"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "68. (Quiz2) Which food should be avoided to prevent trichinosis?",
+      "options": [
+        "Cold pizza",
+        "Fried chicken",
+        "Raw meat",
+        "Uncooked sushi"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "69. (Quiz2) Trichinella spiralis is most commonly found in:",
+      "options": [
+        "Tapeworm",
+        "Pork",
+        "Oocyst",
+        "Beef"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "70. (Quiz2) The definitive host of Trichinella spiralis is:",
+      "options": [
+        "Carnivorous",
+        "Omnivorous",
+        "Man",
+        "All of the above"
+      ],
+      "correct": 3
+    }
+  ]
+}
