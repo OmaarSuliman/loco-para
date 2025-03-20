@@ -1,6 +1,6 @@
 {
-  "title": "Microbiology",
+  "title": "Parasitology",
   "quizzes": [
-    {"title": "Parasites affecting muscles & TUT", "path": "data/001.json"}
+    {"title": "Parasites affecting muscles & TUT", "path": "data/para_001.json"}
   ]
 }
